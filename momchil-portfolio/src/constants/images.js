@@ -35,6 +35,9 @@ import nb from "../assets/nb.png";
 import skype from "../assets/skype.png";
 import spotify from "../assets/spotify.png";
 
+import java from "../assets/Java-logo.jpg";
+import spring from "../assets/spring.png";
+
 export default {
   email,
   mobile,
@@ -69,4 +72,6 @@ export default {
   nb,
   skype,
   spotify,
+  java,
+  spring,
 };
